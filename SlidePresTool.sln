@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidePresTool", "SlidePresTool.csproj", "{AC04ACC0-C07A-4D53-B00B-A749995FE5C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC04ACC0-C07A-4D53-B00B-A749995FE5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC04ACC0-C07A-4D53-B00B-A749995FE5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC04ACC0-C07A-4D53-B00B-A749995FE5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC04ACC0-C07A-4D53-B00B-A749995FE5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF9CDAF-943B-48DC-B7A1-3B1F5D64EE29}
+	EndGlobalSection
+EndGlobal
